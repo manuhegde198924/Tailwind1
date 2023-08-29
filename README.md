@@ -1,6 +1,7 @@
 # Tailwind1
-Hosted link of my project:
-for steps of my project please refer:
+Hosted link of my project:https://manuhegde198924.github.io/Tailwind1/
+
+for steps of my project please refer:https://github.com/manuhegde198924/Tailwind1/issues/1
 
 let me introduce u to Tailwind css:
 
